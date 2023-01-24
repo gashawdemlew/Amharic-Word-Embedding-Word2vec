@@ -5,6 +5,6 @@ Note: -to run the code you need to import gensim (python module)
      
       -you can also download the above embeddings form my drive. here are the links;
       
-      [Amharic word embedding (SG) with stemmed data](https://drive.google.com/file/d/1f-AAdiu_caxAfEL7Ll8dOkNOiEUjMVC5/view?usp=share_link).
+      [Amharic word embedding_skipgram with stemmed data](https://drive.google.com/file/d/1f-AAdiu_caxAfEL7Ll8dOkNOiEUjMVC5/view?usp=share_link).
       
-      [Amharic word embedding (SG) with unstemmed data](https://drive.google.com/file/d/1SFTeMQALxKH3rsER60rXmobgr2D2Msd1/view?usp=share_link).
+      [Amharic word embedding_skipgram  with unstemmed data](https://drive.google.com/file/d/1SFTeMQALxKH3rsER60rXmobgr2D2Msd1/view?usp=share_link).
